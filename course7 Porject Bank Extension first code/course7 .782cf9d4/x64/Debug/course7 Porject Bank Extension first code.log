@@ -1,0 +1,4 @@
+﻿  course7 Porject Bank Extension first code.cpp
+C:\ProgrammingProjects\course7\course7 Porject Bank Extension first code\course7 Porject Bank Extension first code.cpp(307,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\ProgrammingProjects\course7\course7 Porject Bank Extension first code\course7 Porject Bank Extension first code.cpp(370,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  course7 Porject Bank Extension first code.vcxproj -> C:\ProgrammingProjects\course7\course7 Porject Bank Extension first code\x64\Debug\course7 Porject Bank Extension first code.exe
